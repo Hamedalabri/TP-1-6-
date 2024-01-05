@@ -1,0 +1,5 @@
+print("saisir minutes écoulées : ")
+me = input()
+me = int(me)
+jour = (me//24//60)
+print(jour)
