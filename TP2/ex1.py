@@ -1,0 +1,6 @@
+print("entrez x:")
+x=input()
+print("entrez y:")
+y=input()
+print("Avant permutation" ," x:" ,x ," y:",y)
+print("aprés permutation" ," x:" ,y ," y:",x)
